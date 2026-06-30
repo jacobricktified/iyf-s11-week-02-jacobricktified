@@ -1,4 +1,4 @@
-# Week 2: CSS Mastery
+# Week 2: CSS Mastery - Responsive Portfolio
 
 ## Author
 - **Name:** Jacob Mbuco
